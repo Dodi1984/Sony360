@@ -15,6 +15,24 @@ namespace Sony360
         public Form1()
         {
             InitializeComponent();
+            ViewSetSize();
+        }
+
+        private void ViewSetSize()
+        {
+            Height = 600;
+            Width = 800;
+        }
+
+        private void AddButton()
+        {
+            Button button = new Button()
+            {
+                Text = "Buton",
+                Height = 50,
+                Width = 50
+            };
+            
         }
     }
 }

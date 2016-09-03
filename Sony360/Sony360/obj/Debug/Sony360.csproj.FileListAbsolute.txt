@@ -1,1 +1,9 @@
 C:\Users\Dan\Documents\Sony360\Sony360\Sony360\bin\Debug\Sony360.exe.config
+C:\Users\Dan\Documents\Sony360\Sony360\Sony360\bin\Debug\Sony360.exe
+C:\Users\Dan\Documents\Sony360\Sony360\Sony360\bin\Debug\Sony360.pdb
+C:\Users\Dan\Documents\Sony360\Sony360\Sony360\obj\Debug\Sony360.csprojResolveAssemblyReference.cache
+C:\Users\Dan\Documents\Sony360\Sony360\Sony360\obj\Debug\Sony360.Properties.Resources.resources
+C:\Users\Dan\Documents\Sony360\Sony360\Sony360\obj\Debug\Sony360.csproj.GenerateResource.Cache
+C:\Users\Dan\Documents\Sony360\Sony360\Sony360\obj\Debug\Sony360.exe
+C:\Users\Dan\Documents\Sony360\Sony360\Sony360\obj\Debug\Sony360.pdb
+C:\Users\Dan\Documents\Sony360\Sony360\Sony360\obj\Debug\Sony360.Form1.resources
