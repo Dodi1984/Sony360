@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Sony360.Controller;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -12,27 +13,11 @@ namespace Sony360
 {
     public partial class Form1 : Form
     {
-        public Form1()
+        private ViewController viewController;
+        public Form1(object viewC)
         {
+            viewController = (ViewController) viewC;
             InitializeComponent();
-            ViewSetSize();
-        }
-
-        private void ViewSetSize()
-        {
-            Height = 600;
-            Width = 800;
-        }
-
-        private void AddButton()
-        {
-            Button button = new Button()
-            {
-                Text = "Buton",
-                Height = 50,
-                Width = 50
-            };
-            
         }
     }
 }

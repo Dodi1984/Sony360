@@ -17,7 +17,7 @@ namespace Sony360
         [STAThread]
         static void Main()
         {
-            viewController = ViewController.getViewControllerInstance();
+            viewController = ViewController.getViewControllerRef();
         }
     }
 }
